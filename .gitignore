@@ -1,0 +1,12 @@
+env/ 
+data/
+memory.db 
+__pycache__/ 
+*.pyc 
+*.pyo 
+.DS_Store 
+*.pem 
+*.key 
+*.pub 
+seclib 
+.ssh/
